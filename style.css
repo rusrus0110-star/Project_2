@@ -24,8 +24,8 @@ textarea {
 
 /* главный контейнер */
 .container {
-  width: 90%;
-  max-width: 22rem;
+  width: 98%;
+  max-width: 23rem;
   height: 100dvh;
   margin-top: 0.3rem;
   background-color: #fff;
@@ -132,7 +132,7 @@ textarea {
 }
 
 .task-checkbox {
-  margin-right: 8px;
+  margin-right: 0.8rem;
 }
 
 .todo-list li {
